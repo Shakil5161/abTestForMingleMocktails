@@ -1,0 +1,13 @@
+.slide-nav__dropdown.is-active .slide-nav__item [href="https://www.minglemocktails.com/blogs/recipes"] {
+    display: none;
+}
+
+.ab-about .site-nav__dropdown [href="https://www.minglemocktails.com/blogs/recipes"] {
+    display: none;
+}
+
+@media only screen and (max-width: 1080px) {
+    .site-nav__link {
+        margin-right: 10px !important;
+    }
+}
